@@ -6,6 +6,7 @@
 1. Created by : Kim Jun Woo
 2. Date of Preparation : 2016.10.12
 3. Date of improve1 : 2016.10.25
+4. Date of improve2 : 2016.10.25
 
 ========== ========== =======
  computer     user    outcome
